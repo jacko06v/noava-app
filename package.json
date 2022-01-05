@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "@sveltejs/adapter-netlify": "^1.0.0-next.36",
+    "@sveltejs/adapter-vercel": "next",
     "@sveltejs/kit": "next",
     "prettier": "^2.4.1",
     "prettier-plugin-svelte": "^2.4.0",
@@ -20,8 +21,9 @@
     "@sveltejs/adapter-auto": "^1.0.0-next.5",
     "@sveltejs/adapter-static": "^1.0.0-next.22",
     "svelte-countdown": "^1.0.0",
+    "svelte-notifications": "^0.9.93",
     "svelte-web3": "^2.2.1",
-    "swiper": "^7.3.0",
+    "swiper": "^7.4.1",
     "web3-svelte": "0.0.0"
   }
 }
