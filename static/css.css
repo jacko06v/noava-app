@@ -3259,5 +3259,7 @@ input:focus {
 [data-reach-dialog-content] {
 	width: 50vw;
 	margin: 10vh auto;
+	background: #fff;
+	padding: 2rem;
 	outline: none;
 }
